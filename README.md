@@ -1,2 +1,2 @@
 # Forecasting-Using-Time-Series
-ARIMA and SARIMA implementation
+ARIMA and SARIMA
